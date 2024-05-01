@@ -27,7 +27,7 @@ print(c)
 ```
 ## Output:
 
-![image](https://github.com/Balaji-Jothiramalingam/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/114234865/480d869d-bccd-44d1-a655-1d6f22f9b4f9)
+![t1](https://github.com/Balaji-Jothiramalingam/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/114234865/68694f33-32fe-4949-affd-d5cf81d3718e)
 
 
 ## Result: 
